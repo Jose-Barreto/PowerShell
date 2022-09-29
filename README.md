@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell samples for beginners
+PowerShell samples
